@@ -25,10 +25,6 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 ```Outcome:``` Class variable (0 or 1)
 
-**Diabetes-Prediction directory tree**
-
-```
-
 
 ## Installation
 

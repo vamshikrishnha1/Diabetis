@@ -1,5 +1,6 @@
 
 # Diabetes_prediction
+Link for Web app: http://diabetes-env-1.eba-7mnmjexx.eu-north-1.elasticbeanstalk.com/predictdata
 
 In this project, the objective is to predict whether the person has Diabetes or not based on various features like Glucose level, Insulin, Age, BMI. We will use the Pima Indians dataset from the UCI Machine learning repository.
 
